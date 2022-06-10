@@ -19,9 +19,9 @@ const Header = () => {
           typeSpeed={40}
           backSpeed={60}
           loop
+          // eslint-disable-next-line jsx-a11y/anchor-is-valid
         />
-        // eslint-disable-next-line jsx-a11y/anchor-is-valid
-        <a hred="#" className="btn-main-offer">
+        <a href="#" className="btn-main-offer">
           <Link smooth={true} to="contacts" offset={-110} className="nav-link">
             Contact Me
           </Link>
