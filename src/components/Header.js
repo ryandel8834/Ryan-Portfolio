@@ -21,7 +21,7 @@ const Header = () => {
           loop
           // eslint-disable-next-line jsx-a11y/anchor-is-valid
         />
-        <a href="github.com" className="btn-main-offer">
+        <a href="https://github.com/" className="btn-main-offer">
           <Link smooth={true} to="contacts" offset={-110} className="nav-link">
             Contact Me
           </Link>

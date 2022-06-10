@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
       <div className="container">
-        <a className="navbar-brand" href="github.com">
+        <a className="navbar-brand" href="https://github.com/">
           <img className="logo" src={logo} alt="logo..." />
         </a>
         <button
